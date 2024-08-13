@@ -15,6 +15,7 @@
 <a href="https://www.postman.com" target="_blank"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="40" height="40" title="postman" alt="postman"/></a>
 <a href="https://www.soapui.org" target="_blank"><img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="40" height="40" title="soapui" alt="soapui"/></a>
 <a href="https://www.charlesproxy.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" width="40" height="40" title="charles-proxy" alt="charles-proxy"/></a>
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" width="40" height="40" title="wireshark" alt="wireshark"/></a>
 <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="mysql" alt="mysql"/></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" title="git" alt="git"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="40" height="40" title="bash" alt="bash"/></a>
