@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Александр 👋</a></h1>
 <h3 align="center">QA/QC Engineer | Тестировщик
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexandr.orlowski@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@aleksandrorlowski-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aleksandrorlowski/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexandr.orlowski@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@alexandrorlowski-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexandrorlowski/) 
 </h3>
 
 * 🔭 На данный момент ищу работу
