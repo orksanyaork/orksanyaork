@@ -6,7 +6,7 @@
 
 * 🔭 На данный момент ищу работу
 
-  <a href="https://github.com/orksanyaork/cv/blob/main/CV_1page.pdf">Моё резюме</a>
+  <a href="https://git-link.vercel.app/api/download?url=https://github.com/orksanyaork/cv/blob/main/CV_1page.pdf">Моё резюме</a>
 * 🧠  Сейчас изучаю теорию QA/QC и практикуюсь
 
   Прошёл курс <a href="https://stepik.org/cert/2509476">Тестирование ПО с нуля. Теория + Практика</a>
