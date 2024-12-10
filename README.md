@@ -7,6 +7,8 @@
 * 🔭 На данный момент ищу работу
 
   <a href="https://git-link.vercel.app/api/download?url=https://github.com/orksanyaork/cv/blob/main/CV_1page.pdf">Моё резюме</a>
+  
+  <a href="https://github.com/orksanyaork/test-tasks">Мои выполненные тестовые задания</a>
 * 🧠  Сейчас изучаю теорию QA/QC и практикуюсь
 
   Прошёл курс <a href="https://stepik.org/cert/2509476">Тестирование ПО с нуля. Теория + Практика</a>
@@ -16,7 +18,7 @@
 
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" title="jira" alt="jira"/></a>
 <a href="https://developer.chrome.com/docs/devtools" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="40" height="40" title="devtools" alt="devtools"/></a>
-<a href="https://www.postman.com" target="_blank"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="40" height="40" title="postman" alt="postman"/></a>
+<a href="https://www.postman.com" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2023/09/postman-logo_brandlogos.net_dsr1l.png" width="40" height="40" title="postman" alt="postman"/></a>
 <a href="https://www.soapui.org" target="_blank"><img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="40" height="40" title="soapui" alt="soapui"/></a>
 <a href="https://www.charlesproxy.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" width="40" height="40" title="charles-proxy" alt="charles-proxy"/></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" width="40" height="40" title="wireshark" alt="wireshark"/></a>
