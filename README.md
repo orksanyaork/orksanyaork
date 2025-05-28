@@ -11,7 +11,14 @@
   <a href="https://github.com/orksanyaork/test-tasks">Мои выполненные тестовые задания</a>
 * 🧠  Сейчас изучаю теорию QA/QC и практикуюсь
 
-  Прошёл курс <a href="https://stepik.org/cert/2509476">Тестирование ПО с нуля. Теория + Практика</a>
+  Прошёл курсы:
+  
+  <img src="https://stepik.org/static/frontend/topbar_logo_small.svg" width="12" height="12" title="stepik.org" alt="stepik.org"/> <a href="https://stepik.org/cert/2509476">Тестирование ПО с нуля. Теория + Практика</a>
+  
+  <img src="https://static.tildacdn.com/tild6665-3864-4630-b462-643138313337/favicon.ico" width="12" height="12" title="karpov.courses" alt="karpov.courses"/> <a href="https://lab.karpov.courses/certificate/8bf92fcd-c56c-45b4-ab65-d58810fecae7/">Docker с нуля</a>
+  
+  <img src="https://education.vk.company/static/core/priv/default/images/favicon_vk.svg" width="12" height="12" title="education.vk.company" alt="education.vk.company"/> <a href="https://education.vk.company/curriculum/certificates/download/78881/f7f01992-952e-4b42-b7aa-b8756fdb9205/">Ручное тестирование с VK Testers</a>
+  
 * 🤝  Открыт к предложениям по тестированию web-приложений, android программ
 
 ### 🛠 Умею работать в:
